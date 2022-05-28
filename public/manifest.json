@@ -41,12 +41,12 @@
         "type": "image/png"
       }
     ],
-    "name": "Budge It Now",
-    "short_name": "BIN",
+    "name": "Budge-It-Tracker",
+    "short_name": "Budge",
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "./index.html",
-    "description": "An app that allows you to keep track of your budget.",
+    "description": "Budget tracking application",
     "background_color": "#ffffff",
     "theme_color": "#ffffff"
   }
